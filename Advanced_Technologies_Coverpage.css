@@ -1,0 +1,43 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.chakri {
+    background-image: url(" https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/arvrbg.png");
+    height: 100vh;
+    background-size: cover;
+
+}
+
+.hero {
+    background-color: #ffffff;
+    color: #323f4b;
+    padding: 15px;
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+
+}
+
+.c {
+    font-family: Bree Serif;
+    color: #5752ab;
+}
+
+.cc {
+    font-weight: bold;
+    font-family: Roboto;
+    color: #323f4b;
+}
+
+.btn {
+    background-color: #ffffff;
+    border-color: #d7dfe9;
+    color: #171f46;
+    border-radius: 5px;
+    margin-left: 10px;
+}
+
+.btn-primary {
+    background-color: #5752ab;
+    color: #ffffff;
+    margin-right: 10px;
+
+}
